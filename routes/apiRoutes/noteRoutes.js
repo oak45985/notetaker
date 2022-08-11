@@ -1,7 +1,6 @@
 const router = require('express').Router();
-const { /* formulas for filtering */ } = require('../../develop/public/assets/js/index');
-const { notes } = require('../../develop/db/db.json');
-
-
+// const { getNotes } = require('../../public/assets/js/index.js');
+const { notes } = require('../../db/db.json');
+const index = require('./index')
 
 module.exports = router;
