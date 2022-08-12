@@ -26,7 +26,7 @@ LICENSE DATA
 
 ## <a name="con">Contributors</a>
 <p> 
-    Tutor: Jeremy Jones: <a href="jjones6@instructors.2u.com">Tutor: Jeremy Jones</a>
+    Tutor:<a href="jjones6@instructors.2u.com">Jeremy Jones</a>
       
    </p><br>
 
