@@ -20,7 +20,8 @@ LICENSE DATA
 
 ## <a name="use">Usage</a>
 <p> Please see image below:
-![Notetaker App](./image/Screen%20Shot%202022-08-11%20at%209.19.23%20PM.png)</p> <br>
+<img src=./image/Screen%20Shot%202022-08-11%20at%209.19.23%20PM.png alt=notetakerapp>
+</p> <br>
 
 
 ## <a name="con">Contributors</a>
